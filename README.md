@@ -25,6 +25,7 @@ All free, no login, single HTML file. Built and documented on the blog.
 | 📋 **Gaokao English Exam** | Real 2026 college entrance exam sat by 12.6M students | [Try it](https://ordinarymantrying.com/tools/gaokao-2026-english-exam.html) · [Repo](https://github.com/daligao/gaokao-2026-english-exam) |
 | 🏛️ **Civil Service Challenge** | Official-style 行测 aptitude quiz | [Try it](https://ordinarymantrying.com/tools/civil-service-challenge.html) · [Repo](https://github.com/daligao/china-civil-service-challenge) |
 | 🥊 **The 20-Decision Vault** | Buffett's punch card rule as a lifetime investment tracker | [Try it](https://ordinarymantrying.com/tools/investment-punch-card.html) · [Repo](https://github.com/daligao/investment-punch-card) |
+| 📖 **Chinese Reading Lab** | 10 real historical decisions in Chinese (HSK4–6), pinyin popup, comprehension quiz | [Try it](https://ordinarymantrying.com/tools/chinese-reading-lab.html) · [Repo](https://github.com/daligao/chinese-reading-lab) |
 
 **All tools →** [ordinarymantrying.com/tools/](https://ordinarymantrying.com/tools/)
 
