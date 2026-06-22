@@ -1,36 +1,45 @@
-# Hi, I'm Daligao 👋
+# Hi, I'm Tim (Daligao) 👋
 
-I live in China and write about what I see — the culture, the career paths, the everyday moments that don't make international news.
+An ordinary Chinese guy building tools, running AI experiments, and writing about it all in English.
 
-**Blog:** [ordinarymantrying.com](https://ordinarymantrying.com) — honest stories about life in China, in English
+**Blog:** [ordinarymantrying.com](https://ordinarymantrying.com) — honest stories about life in China, AI experiments, and value investing
+
+---
+
+## 📝 Latest Posts
+
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->
 
 ---
 
 ## 🛠 Free Tools
 
-Tools I built for learners and curious minds. All free, no login, single HTML file.
+All free, no login, single HTML file. Built and documented on the blog.
 
 | Tool | Description | Link |
 |---|---|---|
 | 🀄 **Mandarin Flashcards** | HSK1–3 vocabulary with spaced repetition + story reader | [Try it](https://ordinarymantrying.com/tools/mandarin-flashcards.html) · [Repo](https://github.com/daligao/mandarin-flashcards) |
-| ✍️ **Chinese Writing Toolkit** | Sentence banks, templates & model essays for 11 types of Chinese writing | [Try it](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) · [Repo](https://github.com/daligao/chinese-writing-toolkit) |
-| 🎓 **Gaokao Major Planner** | 757 Chinese university majors compared — which one holds up in 4 years? | [Try it](https://ordinarymantrying.com/tools/gaokao-2026-english-exam.html) |
-| 🏛️ **China Civil Service Challenge** | How well do you know China? 30-question official-style quiz | [Try it](https://ordinarymantrying.com/tools/civil-service-challenge.html) |
+| ✍️ **Chinese Writing Toolkit** | Sentence banks & model essays for 11 types of Chinese writing | [Try it](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) · [Repo](https://github.com/daligao/chinese-writing-toolkit) |
+| 🗳️ **Major Vote Selector** | 757 Chinese university majors — vote on what's worth studying | [Try it](https://ordinarymantrying.com/tools/major-vote-cn.html) · [Repo](https://github.com/daligao/major-vote-cn-selector) |
+| 📋 **Gaokao English Exam** | Real 2026 college entrance exam sat by 12.6M students | [Try it](https://ordinarymantrying.com/tools/gaokao-2026-english-exam.html) · [Repo](https://github.com/daligao/gaokao-2026-english-exam) |
+| 🏛️ **Civil Service Challenge** | Official-style 行测 aptitude quiz | [Try it](https://ordinarymantrying.com/tools/civil-service-challenge.html) · [Repo](https://github.com/daligao/china-civil-service-challenge) |
+| 🥊 **The 20-Decision Vault** | Buffett's punch card rule as a lifetime investment tracker | [Try it](https://ordinarymantrying.com/tools/investment-punch-card.html) · [Repo](https://github.com/daligao/investment-punch-card) |
 
-**All tools:** [ordinarymantrying.com/tools/](https://ordinarymantrying.com/tools/)
+**All tools →** [ordinarymantrying.com/tools/](https://ordinarymantrying.com/tools/)
 
 ---
 
-## 📝 Recent Writing
+## 🔬 Current Experiment
 
-- [I Built This Blog in 4 Days Using AI — And Now I'm Running a Live Experiment in Public](https://ordinarymantrying.com)
-- [Free Mandarin Learning Tools for English Speakers](https://ordinarymantrying.com/tools/)
+**Can AI predict the World Cup?** I ran 6 AI models (3 Chinese, 3 American) against 14 World Cup matches and bought real lottery tickets based on their predictions. Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-china-vs-us/) · Part 2 coming soon
 
 ---
 
 ## About
 
 - 🇨🇳 Based in China
-- 🔧 Building tools for people curious about China
-- ✍️ Writing about AI, side hustles, and life in China — honestly
-- 📬 Find me at [ordinarymantrying.com](https://ordinarymantrying.com)
+- 🤖 Running AI experiments and writing about what actually happens
+- 📈 Learning value investing with AI
+- ✍️ Writing honestly about side hustles, tools, and life in China
+- 📬 [ordinarymantrying.com](https://ordinarymantrying.com)
