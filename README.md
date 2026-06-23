@@ -9,6 +9,11 @@ An ordinary Chinese guy building tools, running AI experiments, and writing abou
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [5 Free Chinese Learning Tools I Built While Living in China &lpar;2026&rpar;](https://ordinarymantrying.com/free-chinese-learning-tools-2026/)
+- [Chinese Writing Toolkit: Model Essays and Sentence Banks for 11 HSK Writing Types](https://ordinarymantrying.com/chinese-writing-toolkit-hsk-model-essays/)
+- [Free HSK 1–3 Flashcards: 400+ Mandarin Words, No App, No Login](https://ordinarymantrying.com/free-hsk-mandarin-flashcards-browser/)
+- [20 Chengyu With Their Original Stories: A Free Tool for HSK4–6 Learners](https://ordinarymantrying.com/chengyu-stories-free-tool-hsk/)
+- [Free Pinyin Annotator: Paste Any Chinese Text, Get Instant Pinyin Above Every Character](https://ordinarymantrying.com/free-pinyin-annotator-chinese-text/)
 <!-- BLOG-POSTS:END -->
 
 ---
