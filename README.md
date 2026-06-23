@@ -1,20 +1,34 @@
 # Hi, I'm Tim (Daligao) 👋
 
-An ordinary Chinese guy building tools, running AI experiments, and writing about it all in English.
+An ordinary Chinese guy. Building tools with AI, tracking what actually happens, writing about it in English.
 
-**Blog:** [ordinarymantrying.com](https://ordinarymantrying.com) — honest stories about life in China, AI experiments, and value investing
+**Blog:** [ordinarymantrying.com](https://ordinarymantrying.com) — building in public. Real numbers. No spin.
 
 ---
 
-## 📝 Latest Posts
+## 🏛️ Life Simulators — Historical Decision Games
 
-<!-- BLOG-POSTS:START -->
-- [5 Free Chinese Learning Tools I Built While Living in China &lpar;2026&rpar;](https://ordinarymantrying.com/free-chinese-learning-tools-2026/)
-- [Chinese Writing Toolkit: Model Essays and Sentence Banks for 11 HSK Writing Types](https://ordinarymantrying.com/chinese-writing-toolkit-hsk-model-essays/)
-- [Free HSK 1–3 Flashcards: 400+ Mandarin Words, No App, No Login](https://ordinarymantrying.com/free-hsk-mandarin-flashcards-browser/)
-- [20 Chengyu With Their Original Stories: A Free Tool for HSK4–6 Learners](https://ordinarymantrying.com/chengyu-stories-free-tool-hsk/)
-- [Free Pinyin Annotator: Paste Any Chinese Text, Get Instant Pinyin Above Every Character](https://ordinarymantrying.com/free-pinyin-annotator-chinese-text/)
-<!-- BLOG-POSTS:END -->
+10 figures. 70+ pivotal decisions. You go first — blind — then see what they actually chose.
+
+Play as Mandela, Curie, Jobs, Musk, Buffett, Disney, Honda, Rowling, Hawking, and Zhang Xue.  
+Zero login. Zero backend. Pure browser. Built with Claude.
+
+| Simulator | Key decision | Link |
+|---|---|---|
+| 🏺 **Mandela** | Refuse release from prison — 27 years in — or accept on their terms | [Play](https://ordinarymantrying.com/tools/mandela-simulator.html) |
+| ⚛️ **Marie Curie** | Leave Warsaw secretly to study physics in Paris — alone, with no money | [Play](https://ordinarymantrying.com/tools/curie-simulator.html) |
+| 💼 **Steve Jobs** | Return to Apple after being fired from your own company | [Play](https://ordinarymantrying.com/tools/jobs-simulator.html) |
+| 🚀 **Elon Musk** | Put your last $50M into a rocket that keeps exploding | [Play](https://ordinarymantrying.com/tools/musk-simulator.html) |
+| 📈 **Warren Buffett** | Skip dot-com stocks entirely when everyone says you've lost your touch | [Play](https://ordinarymantrying.com/tools/buffett-simulator.html) |
+| 🎨 **Walt Disney** | Bet the entire studio on an animated feature — the industry calls it "Disney's Folly" | [Play](https://ordinarymantrying.com/tools/disney-simulator.html) |
+| 🔧 **Soichiro Honda** | Start over after your factory is bombed. Twice. | [Play](https://ordinarymantrying.com/tools/honda-simulator.html) |
+| ✏️ **J.K. Rowling** | Keep writing Harry Potter while on welfare, rejected by 12 publishers | [Play](https://ordinarymantrying.com/tools/rowling-simulator.html) |
+| 🌌 **Stephen Hawking** | Choose how to respond to an ALS diagnosis at 21 | [Play](https://ordinarymantrying.com/tools/hawking-simulator.html) |
+| 🏍️ **Zhang Xue** | Race against Ducati on a Chinese-made bike nobody believes in | [Play](https://ordinarymantrying.com/tools/zhangxue-simulator.html) |
+
+The Buffett simulator logic is reconstructed from *The Snowball* (Schroeder, 2008). If the decisions interest you: [📖 Read the book →](https://amzn.to/4w2cpWB)
+
+**All simulators →** [ordinarymantrying.com/tools/](https://ordinarymantrying.com/tools/) · **Open source** → [Repos](https://github.com/daligao?tab=repositories)
 
 ---
 
@@ -24,15 +38,14 @@ All free, no login, single HTML file. Built and documented on the blog.
 
 | Tool | Description | Link |
 |---|---|---|
-| 🀄 **Mandarin Flashcards** | HSK1–3 vocabulary with spaced repetition + story reader | [Try it](https://ordinarymantrying.com/tools/mandarin-flashcards.html) · [Repo](https://github.com/daligao/mandarin-flashcards) |
-| ✍️ **Chinese Writing Toolkit** | Sentence banks & model essays for 11 types of Chinese writing | [Try it](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) · [Repo](https://github.com/daligao/chinese-writing-toolkit) |
-| 🗳️ **Major Vote Selector** | 757 Chinese university majors — vote on what's worth studying | [Try it](https://ordinarymantrying.com/tools/major-vote-cn.html) · [Repo](https://github.com/daligao/major-vote-cn-selector) |
+| 🀄 **Mandarin Flashcards** | HSK1–3 vocabulary — 400 words, tap for pinyin + example | [Try it](https://ordinarymantrying.com/tools/mandarin-flashcards/) · [Repo](https://github.com/daligao/mandarin-flashcards) |
+| ✍️ **Chinese Writing Toolkit** | Sentence banks & model essays for 11 types of Chinese writing | [Try it](https://ordinarymantrying.com/tools/chinese-writing-toolkit/) · [Repo](https://github.com/daligao/chinese-writing-toolkit) |
+| 🗳️ **Major Vote** | 757 Chinese university majors — community vote on what's worth studying in 4 years | [Try it](https://ordinarymantrying.com/tools/major-vote.html) · [Repo](https://github.com/daligao/major-vote-cn-selector) |
 | 📋 **Gaokao English Exam** | Real 2026 college entrance exam sat by 12.6M students | [Try it](https://ordinarymantrying.com/tools/gaokao-2026-english-exam.html) · [Repo](https://github.com/daligao/gaokao-2026-english-exam) |
 | 🏛️ **Civil Service Challenge** | Official-style 行测 aptitude quiz | [Try it](https://ordinarymantrying.com/tools/civil-service-challenge.html) · [Repo](https://github.com/daligao/china-civil-service-challenge) |
-| 🥊 **The 20-Decision Vault** | Buffett's punch card rule as a lifetime investment tracker | [Try it](https://ordinarymantrying.com/tools/investment-punch-card.html) · [Repo](https://github.com/daligao/investment-punch-card) |
-| 📖 **Chinese Reading Lab** | 10 real historical decisions in Chinese (HSK4–6), pinyin popup, comprehension quiz | [Try it](https://ordinarymantrying.com/tools/chinese-reading-lab.html) · [Repo](https://github.com/daligao/chinese-reading-lab) |
-| 🐉 **Chengyu Stories** | 20 classic Chinese idioms with origin stories, modern usage, and scenario quiz | [Try it](https://ordinarymantrying.com/tools/chengyu-stories.html) · [Repo](https://github.com/daligao/chengyu-stories) |
-| 🔤 **Pinyin Annotator** | Paste any Chinese text → instant pinyin above every character. Tone colors, HSK highlight, 2,500+ char dict | [Try it](https://ordinarymantrying.com/tools/pinyin-annotator.html) · [Repo](https://github.com/daligao/pinyin-annotator) |
+| 🥊 **Investment Punch Card** | Buffett's 20-decision rule as a lifetime investment tracker | [Try it](https://ordinarymantrying.com/tools/investment-punch-card.html) · [Repo](https://github.com/daligao/investment-punch-card) |
+| 🧠 **AQ Kids** | Parent quiz — assess your child's resilience, get a personalized PDF letter | [Try it](https://ordinarymantrying.com/tools/aq-kids/) |
+| 🧩 **3-Question IQ Challenge** | 3 questions. Most people fail question 1. | [Try it](https://ordinarymantrying.com/tools/example-iq-challenge.html) |
 
 **All tools →** [ordinarymantrying.com/tools/](https://ordinarymantrying.com/tools/) · **Chinese learning hub →** [daligao.github.io/learn-chinese-free/](https://daligao.github.io/learn-chinese-free/)
 
@@ -40,14 +53,27 @@ All free, no login, single HTML file. Built and documented on the blog.
 
 ## 🔬 Current Experiment
 
-**Can AI predict the World Cup?** I ran 6 AI models (3 Chinese, 3 American) against 14 World Cup matches and bought real lottery tickets based on their predictions. Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-china-vs-us/) · Part 2 coming soon
+**Can AI predict the World Cup?** I ran 6 AI models (3 Chinese, 3 American) against 14 World Cup matches — and bought real lottery tickets based on their predictions.  
+Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-china-vs-us/) · Part 2 in progress
+
+---
+
+## 📝 Latest Posts
+
+<!-- BLOG-POSTS:START -->
+- [5 Free Chinese Learning Tools I Built While Living in China &lpar;2026&rpar;](https://ordinarymantrying.com/free-chinese-learning-tools-2026/)
+- [Chinese Writing Toolkit: Model Essays and Sentence Banks for 11 HSK Writing Types](https://ordinarymantrying.com/chinese-writing-toolkit-hsk-model-essays/)
+- [Free HSK 1–3 Flashcards: 400+ Mandarin Words, No App, No Login](https://ordinarymantrying.com/free-hsk-mandarin-flashcards-browser/)
+- [I Built 10 Life Simulators. You Make the Decisions — Then See What They Actually Did.](https://ordinarymantrying.com/life-simulator-legendary-decisions/)
+- [I Made 6 AI Models Predict the World Cup. They Almost All Agreed.](https://ordinarymantrying.com/6-ai-models-predict-world-cup-china-vs-us/)
+<!-- BLOG-POSTS:END -->
 
 ---
 
 ## About
 
-- 🇨🇳 Based in China
+- 🇨🇳 Based in China, writing in English for a global audience
 - 🤖 Running AI experiments and writing about what actually happens
-- 📈 Learning value investing with AI
-- ✍️ Writing honestly about side hustles, tools, and life in China
+- 📈 Learning value investing with AI as a research partner
+- ✍️ Everything documented honestly — including the $0 months
 - 📬 [ordinarymantrying.com](https://ordinarymantrying.com)
