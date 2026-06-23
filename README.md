@@ -27,8 +27,9 @@ All free, no login, single HTML file. Built and documented on the blog.
 | 🥊 **The 20-Decision Vault** | Buffett's punch card rule as a lifetime investment tracker | [Try it](https://ordinarymantrying.com/tools/investment-punch-card.html) · [Repo](https://github.com/daligao/investment-punch-card) |
 | 📖 **Chinese Reading Lab** | 10 real historical decisions in Chinese (HSK4–6), pinyin popup, comprehension quiz | [Try it](https://ordinarymantrying.com/tools/chinese-reading-lab.html) · [Repo](https://github.com/daligao/chinese-reading-lab) |
 | 🐉 **Chengyu Stories** | 20 classic Chinese idioms with origin stories, modern usage, and scenario quiz | [Try it](https://ordinarymantrying.com/tools/chengyu-stories.html) · [Repo](https://github.com/daligao/chengyu-stories) |
+| 🔤 **Pinyin Annotator** | Paste any Chinese text → instant pinyin above every character. Tone colors, HSK highlight, 2,500+ char dict | [Try it](https://ordinarymantrying.com/tools/pinyin-annotator.html) · [Repo](https://github.com/daligao/pinyin-annotator) |
 
-**All tools →** [ordinarymantrying.com/tools/](https://ordinarymantrying.com/tools/)
+**All tools →** [ordinarymantrying.com/tools/](https://ordinarymantrying.com/tools/) · **Chinese learning hub →** [daligao.github.io/learn-chinese-free/](https://daligao.github.io/learn-chinese-free/)
 
 ---
 
