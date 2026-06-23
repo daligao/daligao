@@ -26,6 +26,7 @@ All free, no login, single HTML file. Built and documented on the blog.
 | 🏛️ **Civil Service Challenge** | Official-style 行测 aptitude quiz | [Try it](https://ordinarymantrying.com/tools/civil-service-challenge.html) · [Repo](https://github.com/daligao/china-civil-service-challenge) |
 | 🥊 **The 20-Decision Vault** | Buffett's punch card rule as a lifetime investment tracker | [Try it](https://ordinarymantrying.com/tools/investment-punch-card.html) · [Repo](https://github.com/daligao/investment-punch-card) |
 | 📖 **Chinese Reading Lab** | 10 real historical decisions in Chinese (HSK4–6), pinyin popup, comprehension quiz | [Try it](https://ordinarymantrying.com/tools/chinese-reading-lab.html) · [Repo](https://github.com/daligao/chinese-reading-lab) |
+| 🐉 **Chengyu Stories** | 20 classic Chinese idioms with origin stories, modern usage, and scenario quiz | [Try it](https://ordinarymantrying.com/tools/chengyu-stories.html) · [Repo](https://github.com/daligao/chengyu-stories) |
 
 **All tools →** [ordinarymantrying.com/tools/](https://ordinarymantrying.com/tools/)
 
