@@ -8,13 +8,15 @@ An ordinary Chinese guy. Building tools with AI, tracking what actually happens,
 
 ## 🏛️ Life Simulators — Historical Decision Games
 
-10 figures. 70+ pivotal decisions. You go first — blind — then see what they actually chose.
+12 figures. 84 pivotal decisions. You go first — blind — then see what they actually chose.
 
-Play as Mandela, Curie, Jobs, Musk, Buffett, Disney, Honda, Rowling, Hawking, and Zhang Xue.  
+Play as Gandhi, Lincoln, Mandela, Curie, Jobs, Musk, Buffett, Disney, Honda, Rowling, Hawking, and Zhang Xue.  
 Zero login. Zero backend. Pure browser. Built with Claude.
 
 | Simulator | Key decision | Link |
 |---|---|---|
+| 🕊️ **Mahatma Gandhi** | Suspend a winning movement the moment it turns violent — or keep going | [Play](https://ordinarymantrying.com/tools/gandhi-simulator.html) |
+| 🏛️ **Abraham Lincoln** | Give a speech your advisors say will cost you the election — or cut it | [Play](https://ordinarymantrying.com/tools/lincoln-simulator.html) |
 | 🏺 **Mandela** | Refuse release from prison — 27 years in — or accept on their terms | [Play](https://ordinarymantrying.com/tools/mandela-simulator.html) |
 | ⚛️ **Marie Curie** | Leave Warsaw secretly to study physics in Paris — alone, with no money | [Play](https://ordinarymantrying.com/tools/curie-simulator.html) |
 | 💼 **Steve Jobs** | Return to Apple after being fired from your own company | [Play](https://ordinarymantrying.com/tools/jobs-simulator.html) |
@@ -38,7 +40,8 @@ All free, no login, single HTML file. Built and documented on the blog.
 
 | Tool | Description | Link |
 |---|---|---|
-| 🀄 **Mandarin Flashcards** | HSK1–3 vocabulary — 400 words, tap for pinyin + example | [Try it](https://ordinarymantrying.com/tools/mandarin-flashcards/) · [Repo](https://github.com/daligao/mandarin-flashcards) |
+| 🀄 **Mandarin Flashcards** | HSK1–3, 400 words, spaced repetition — now with Anki export | [Try it](https://ordinarymantrying.com/tools/mandarin-flashcards.html) · [Repo](https://github.com/daligao/mandarin-flashcards) |
+| 🔡 **HSK4 Flashcards** | 150 intermediate words, same spaced repetition, Anki export | [Try it](https://ordinarymantrying.com/tools/hsk4-flashcards.html) |
 | ✍️ **Chinese Writing Toolkit** | Sentence banks & model essays for 11 types of Chinese writing | [Try it](https://ordinarymantrying.com/tools/chinese-writing-toolkit/) · [Repo](https://github.com/daligao/chinese-writing-toolkit) |
 | 🗳️ **Major Vote** | 757 Chinese university majors — community vote on what's worth studying in 4 years | [Try it](https://ordinarymantrying.com/tools/major-vote.html) · [Repo](https://github.com/daligao/major-vote-cn-selector) |
 | 📋 **Gaokao English Exam** | Real 2026 college entrance exam sat by 12.6M students | [Try it](https://ordinarymantrying.com/tools/gaokao-2026-english-exam.html) · [Repo](https://github.com/daligao/gaokao-2026-english-exam) |
@@ -46,6 +49,7 @@ All free, no login, single HTML file. Built and documented on the blog.
 | 🥊 **Investment Punch Card** | Buffett's 20-decision rule as a lifetime investment tracker | [Try it](https://ordinarymantrying.com/tools/investment-punch-card.html) · [Repo](https://github.com/daligao/investment-punch-card) |
 | 🧠 **AQ Kids** | Parent quiz — assess your child's resilience, get a personalized PDF letter | [Try it](https://ordinarymantrying.com/tools/aq-kids/) |
 | 🧩 **3-Question IQ Challenge** | 3 questions. Most people fail question 1. | [Try it](https://ordinarymantrying.com/tools/example-iq-challenge.html) |
+| 🧠 **Extended IQ & Cognitive Bias Challenge** | 20 questions covering CRT, Monty Hall, Linda problem, Wason task — average score 11/20 | [Try it](https://ordinarymantrying.com/tools/iq-challenge-extended.html) |
 
 **All tools →** [ordinarymantrying.com/tools/](https://ordinarymantrying.com/tools/) · **Chinese learning hub →** [daligao.github.io/learn-chinese-free/](https://daligao.github.io/learn-chinese-free/)
 
