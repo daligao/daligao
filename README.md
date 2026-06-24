@@ -65,11 +65,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [I Spent a Day Fixing Bugs on a Kids Quiz — Then Added a Tip Button for the First Time](https://ordinarymantrying.com/aq-kids-resilience-quiz-kofi-launch/)
 - [5 Free Chinese Learning Tools I Built While Living in China &lpar;2026&rpar;](https://ordinarymantrying.com/free-chinese-learning-tools-2026/)
 - [Chinese Writing Toolkit: Model Essays and Sentence Banks for 11 HSK Writing Types](https://ordinarymantrying.com/chinese-writing-toolkit-hsk-model-essays/)
 - [Free HSK 1–3 Flashcards: 400+ Mandarin Words, No App, No Login](https://ordinarymantrying.com/free-hsk-mandarin-flashcards-browser/)
-- [I Built 10 Life Simulators. You Make the Decisions — Then See What They Actually Did.](https://ordinarymantrying.com/life-simulator-legendary-decisions/)
-- [I Made 6 AI Models Predict the World Cup. They Almost All Agreed.](https://ordinarymantrying.com/6-ai-models-predict-world-cup-china-vs-us/)
+- [20 Chengyu With Their Original Stories: A Free Tool for HSK4–6 Learners](https://ordinarymantrying.com/chengyu-stories-free-tool-hsk/)
 <!-- BLOG-POSTS:END -->
 
 ---
