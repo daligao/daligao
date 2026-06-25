@@ -65,11 +65,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [I Scored My Life Density — Here’s What the Number Means](https://ordinarymantrying.com/life-density-score-black-hole-months-felt-time/)
+- [I Built a Tool That Shows Famous Lives on a 900-Square Grid — Here’s What I Didn’t Expect](https://ordinarymantrying.com/famous-lives-900-square-grid-life-visualization/)
+- [AI Talked Me Out of My “Brilliant” Idea — Then We Built Something Better](https://ordinarymantrying.com/ai-talked-me-out-of-my-brilliant-idea-then-we-built-something-better/)
+- [The Results Are In. Here’s How 6 AI Models Did Against the Actual World Cup.](https://ordinarymantrying.com/world-cup-ai-prediction-results/)
 - [I Spent a Day Fixing Bugs on a Kids Quiz — Then Added a Tip Button for the First Time](https://ordinarymantrying.com/aq-kids-resilience-quiz-kofi-launch/)
-- [5 Free Chinese Learning Tools I Built While Living in China &lpar;2026&rpar;](https://ordinarymantrying.com/free-chinese-learning-tools-2026/)
-- [Chinese Writing Toolkit: Model Essays and Sentence Banks for 11 HSK Writing Types](https://ordinarymantrying.com/chinese-writing-toolkit-hsk-model-essays/)
-- [Free HSK 1–3 Flashcards: 400+ Mandarin Words, No App, No Login](https://ordinarymantrying.com/free-hsk-mandarin-flashcards-browser/)
-- [20 Chengyu With Their Original Stories: A Free Tool for HSK4–6 Learners](https://ordinarymantrying.com/chengyu-stories-free-tool-hsk/)
 <!-- BLOG-POSTS:END -->
 
 ---
