@@ -65,11 +65,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
-- [I Scored My Life Density — Here’s What the Number Means](https://ordinarymantrying.com/life-density-score-black-hole-months-felt-time/)
-- [I Built a Tool That Shows Famous Lives on a 900-Square Grid — Here’s What I Didn’t Expect](https://ordinarymantrying.com/famous-lives-900-square-grid-life-visualization/)
-- [AI Talked Me Out of My “Brilliant” Idea — Then We Built Something Better](https://ordinarymantrying.com/ai-talked-me-out-of-my-brilliant-idea-then-we-built-something-better/)
-- [The Results Are In. Here’s How 6 AI Models Did Against the Actual World Cup.](https://ordinarymantrying.com/world-cup-ai-prediction-results/)
-- [I Spent a Day Fixing Bugs on a Kids Quiz — Then Added a Tip Button for the First Time](https://ordinarymantrying.com/aq-kids-resilience-quiz-kofi-launch/)
+- [A Broke Motorcycle Repairman From China Beat Ducati at the World Superbike Championship. Can You Make His Decisions?](https://ordinarymantrying.com/a-broke-motorcycle-repairman-from-china-beat-ducati-at-the-world-superbike-championship-can-you-make-his-decisions-ai-generated/)
+- [The Odds Are 1 in 17 Million. I Built a Shuangseqiu Number Generator Anyway.](https://ordinarymantrying.com/the-odds-are-1-in-17-million-i-built-a-shuangseqiu-number-generator-anyway-ai-generated/)
+- [3 Classic Lateral Thinking Traps. Most Smart People Get at Least One Wrong.](https://ordinarymantrying.com/3-classic-lateral-thinking-traps-most-smart-people-get-at-least-one-wrong-ai-generated/)
+- [13 Ranking Lists for China’s 757 University Majors — Best Overall, AI-Resistant, and More.](https://ordinarymantrying.com/13-ranking-lists-for-chinas-757-university-majors-best-overall-ai-resistant-and-more-ai-generated/)
+- [259 Chinese Career Paths, Each With Salary Range, AI Disruption Level, and the Degree That Gets You There.](https://ordinarymantrying.com/259-chinese-career-paths-each-with-salary-range-ai-disruption-level-and-the-degree-that-gets-you-there-ai-generated/)
 <!-- BLOG-POSTS:END -->
 
 ---
