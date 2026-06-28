@@ -65,11 +65,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [My Friend Was Hired as a Human Thermometer. AI Fired Him in 20 Minutes.](https://ordinarymantrying.com/my-friend-was-hired-as-a-human-thermometer-ai-fired-him-in-20-minutes/)
 - [A Broke Motorcycle Repairman From China Beat Ducati at the World Superbike Championship. Can You Make His Decisions?](https://ordinarymantrying.com/a-broke-motorcycle-repairman-from-china-beat-ducati-at-the-world-superbike-championship-can-you-make-his-decisions-ai-generated/)
 - [The Odds Are 1 in 17 Million. I Built a Shuangseqiu Number Generator Anyway.](https://ordinarymantrying.com/the-odds-are-1-in-17-million-i-built-a-shuangseqiu-number-generator-anyway-ai-generated/)
 - [3 Classic Lateral Thinking Traps. Most Smart People Get at Least One Wrong.](https://ordinarymantrying.com/3-classic-lateral-thinking-traps-most-smart-people-get-at-least-one-wrong-ai-generated/)
 - [13 Ranking Lists for China’s 757 University Majors — Best Overall, AI-Resistant, and More.](https://ordinarymantrying.com/13-ranking-lists-for-chinas-757-university-majors-best-overall-ai-resistant-and-more-ai-generated/)
-- [259 Chinese Career Paths, Each With Salary Range, AI Disruption Level, and the Degree That Gets You There.](https://ordinarymantrying.com/259-chinese-career-paths-each-with-salary-range-ai-disruption-level-and-the-degree-that-gets-you-there-ai-generated/)
 <!-- BLOG-POSTS:END -->
 
 ---
