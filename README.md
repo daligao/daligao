@@ -65,11 +65,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
-- [Why I Built 25 Historical Life Simulators &lpar;And What I Learned About Decision-Making Along the Way&rpar;](https://ordinarymantrying.com/why-i-built-25-life-simulators-building-in-public/)
-- [Frida Kahlo Had 35 Surgeries and Painted All of It. She Said: I Never Painted Dreams — I Painted My Reality. &lpar;AI Generated&rpar;](https://ordinarymantrying.com/frida-kahlo-life-simulator-8-decisions-ai-generated/)
-- [Dostoevsky Stood Before a Firing Squad at 28. The Pardon Came at the Last Second. What Would You Have Done? &lpar;AI Generated&rpar;](https://ordinarymantrying.com/dostoevsky-life-simulator-8-decisions-ai-generated/)
-- [Franz Kafka Told His Best Friend to Burn Everything. Max Brod Didn’t. What Would You Have Done? &lpar;AI Generated&rpar;](https://ordinarymantrying.com/kafka-life-simulator-8-decisions-ai-generated/)
-- [Friedrich Nietzsche Resigned His Professorship at 34 and Wrote for an Audience That Didn’t Exist Yet. What Would You Have Done? &lpar;AI Generated&rpar;](https://ordinarymantrying.com/nietzsche-life-simulator-8-decisions-ai-generated/)
+- [Three AIs Reviewed My Website. They All Found the Same Problems.](https://ordinarymantrying.com/3-ais-rated-my-website-7-8-9/)
+- [I’ve Published 100 Articles. Nobody Asked Me To. Here’s Why I Didn’t Stop.](https://ordinarymantrying.com/100-articles-why-i-kept-going/)
+- [I Gave My Life a Density Score. Here’s What the Number Revealed.](https://ordinarymantrying.com/life-density-score-what-it-revealed/)
+- [How Many Times Will You See Your Aging Parents Again? I Did the Math.](https://ordinarymantrying.com/how-many-times-will-you-see-parents-again/)
+- [I Calculated How Much Time I’ve Wasted. Then I Stopped Feeling Guilty About It.](https://ordinarymantrying.com/how-much-time-have-i-wasted-calculator/)
 <!-- BLOG-POSTS:END -->
 
 ---
