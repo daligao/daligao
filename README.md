@@ -40,6 +40,7 @@ All free, no login, single HTML file. Built and documented on the blog.
 
 | Tool | Description | Link |
 |---|---|---|
+| 🧠 **Mind Traps** | 40 psychology laws quiz — read a real scenario, name the law. Murphy's Law to Goodhart's Law. | [Play](https://ordinarymantrying.com/tools/mind-traps.html) · [Repo](https://github.com/daligao/mind-traps) |
 | 🀄 **Mandarin Flashcards** | HSK1–3, 400 words, spaced repetition — now with Anki export | [Try it](https://ordinarymantrying.com/tools/mandarin-flashcards.html) · [Repo](https://github.com/daligao/mandarin-flashcards) |
 | 🔡 **HSK4 Flashcards** | 150 intermediate words, same spaced repetition, Anki export | [Try it](https://ordinarymantrying.com/tools/hsk4-flashcards.html) |
 | ✍️ **Chinese Writing Toolkit** | Sentence banks & model essays for 11 types of Chinese writing | [Try it](https://ordinarymantrying.com/tools/chinese-writing-toolkit/) · [Repo](https://github.com/daligao/chinese-writing-toolkit) |
