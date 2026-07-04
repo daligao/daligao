@@ -66,11 +66,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
-- [Three AIs Reviewed My Website. They All Found the Same Problems.](https://ordinarymantrying.com/3-ais-rated-my-website-7-8-9/)
-- [I’ve Published 100 Articles. Nobody Asked Me To. Here’s Why I Didn’t Stop.](https://ordinarymantrying.com/100-articles-why-i-kept-going/)
-- [I Gave My Life a Density Score. Here’s What the Number Revealed.](https://ordinarymantrying.com/life-density-score-what-it-revealed/)
-- [How Many Times Will You See Your Aging Parents Again? I Did the Math.](https://ordinarymantrying.com/how-many-times-will-you-see-parents-again/)
-- [I Calculated How Much Time I’ve Wasted. Then I Stopped Feeling Guilty About It.](https://ordinarymantrying.com/how-much-time-have-i-wasted-calculator/)
+- [What Is the Ben Franklin Effect? &lpar;AI Generated&rpar;](https://ordinarymantrying.com/what-is-the-ben-franklin-effect/)
+- [What Is the Cobra Effect? &lpar;AI Generated&rpar;](https://ordinarymantrying.com/what-is-the-cobra-effect/)
+- [What Is the Spotlight Effect? &lpar;AI Generated&rpar;](https://ordinarymantrying.com/what-is-the-spotlight-effect/)
+- [What Is the IKEA Effect? &lpar;AI Generated&rpar;](https://ordinarymantrying.com/what-is-the-ikea-effect/)
+- [What Is Gambler’s Fallacy? &lpar;AI Generated&rpar;](https://ordinarymantrying.com/what-is-gamblers-fallacy/)
 <!-- BLOG-POSTS:END -->
 
 ---
