@@ -66,11 +66,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [I Let AI Decide: Repair or Replace My Kitchen Range Hood. It Cost Me $38 More—Here’s What I Learned](https://ordinarymantrying.com/i-asked-ai-to-help-me-fix-my-kitchen-exhaust-fan-heres-what-happened/)
+- [I Asked AI to Predict My Blog Traffic. Here’s What Happened.](https://ordinarymantrying.com/ai-told-me-this-will-definitely-get-traffic-heres-what-happened/)
 - [What Is the Ben Franklin Effect? &lpar;AI Generated&rpar;](https://ordinarymantrying.com/what-is-the-ben-franklin-effect/)
 - [What Is the Cobra Effect? &lpar;AI Generated&rpar;](https://ordinarymantrying.com/what-is-the-cobra-effect/)
 - [What Is the Spotlight Effect? &lpar;AI Generated&rpar;](https://ordinarymantrying.com/what-is-the-spotlight-effect/)
-- [What Is the IKEA Effect? &lpar;AI Generated&rpar;](https://ordinarymantrying.com/what-is-the-ikea-effect/)
-- [What Is Gambler’s Fallacy? &lpar;AI Generated&rpar;](https://ordinarymantrying.com/what-is-gamblers-fallacy/)
 <!-- BLOG-POSTS:END -->
 
 ---
