@@ -66,11 +66,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
-- [When you let Claude Haiku build your timeline feature](https://ordinarymantrying.com/token-savings-vs-code-quality-why-i-switched-back-to-claude-opus/)
-- [Roborock vs ECOVACS vs Xiaomi: Which Chinese Robot Vacuum Is Actually Worth Buying?](https://ordinarymantrying.com/roborock-vs-ecovacs-vs-xiaomi-robot-vacuum/)
-- [The Real Problem with AI Tools &lpar;And Why I Stopped Building Them&rpar;](https://ordinarymantrying.com/ai-decision-toolkit-manifesto/)
-- [Stop Getting Lost in Travel Planning — Let AI Read Your Mind Instead](https://ordinarymantrying.com/travel-prompt-generator/)
-- [I Let AI Decide: Repair or Replace My Kitchen Range Hood. It Cost Me $38 More—Here’s What I Learned](https://ordinarymantrying.com/i-asked-ai-to-help-me-fix-my-kitchen-exhaust-fan-heres-what-happened/)
+- [The 16 China Phone Numbers Every Foreigner Should Save — Plus the One Trick That Tells You How Old Any Chinese Number Is &lpar;AI Generated&rpar;](https://ordinarymantrying.com/china-phone-numbers-foreigners-guide-2026/)
+- [The ¥5 SIM Card That Keeps Your WeChat Alive From Abroad. And Everything Else About Getting a Chinese Number. &lpar;AI Generated&rpar;](https://ordinarymantrying.com/china-sim-card-guide-foreigners-2026/)
+- [Your Chinese Employer Pays ¥3,350 a Month You Never See. Here’s Where It Goes. &lpar;AI Generated&rpar;](https://ordinarymantrying.com/china-wuyi-yijin-social-insurance-explained-2026/)
+- [China Has 16× More Pet Dogs Than Newborn Babies in 2025. The Numbers Are Stunning. &lpar;AI Generated&rpar;](https://ordinarymantrying.com/china-population-crisis-5-numbers-2026/)
+- [China Gives Workers 122 Days Off Per Year — But Only 18 of Them Are Actually Yours &lpar;AI Generated&rpar;](https://ordinarymantrying.com/china-paid-leave-public-holidays-explained-2026/)
 <!-- BLOG-POSTS:END -->
 
 ---
