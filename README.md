@@ -66,11 +66,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [Affiliate Marketing Blog: Build a $2,000–$5,000/Month Passive Income Site](https://ordinarymantrying.com/affiliate-marketing-blog-passive-income/)
+- [Stock Dividends](https://ordinarymantrying.com/stock-dividends/)
+- [The Air Conditioner Queen: How Gree Became the World’s #1 AC Brand &lpar;Without You Knowing It&rpar;](https://ordinarymantrying.com/gree-air-conditioner-brand-story/)
 - [The 16 China Phone Numbers Every Foreigner Should Save — Plus the One Trick That Tells You How Old Any Chinese Number Is &lpar;AI Generated&rpar;](https://ordinarymantrying.com/china-phone-numbers-foreigners-guide-2026/)
 - [The ¥5 SIM Card That Keeps Your WeChat Alive From Abroad. And Everything Else About Getting a Chinese Number. &lpar;AI Generated&rpar;](https://ordinarymantrying.com/china-sim-card-guide-foreigners-2026/)
-- [Your Chinese Employer Pays ¥3,350 a Month You Never See. Here’s Where It Goes. &lpar;AI Generated&rpar;](https://ordinarymantrying.com/china-wuyi-yijin-social-insurance-explained-2026/)
-- [China Has 16× More Pet Dogs Than Newborn Babies in 2025. The Numbers Are Stunning. &lpar;AI Generated&rpar;](https://ordinarymantrying.com/china-population-crisis-5-numbers-2026/)
-- [China Gives Workers 122 Days Off Per Year — But Only 18 of Them Are Actually Yours &lpar;AI Generated&rpar;](https://ordinarymantrying.com/china-paid-leave-public-holidays-explained-2026/)
 <!-- BLOG-POSTS:END -->
 
 ---
