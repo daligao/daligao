@@ -66,11 +66,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [I Borrowed Money to Bet on Elon Musk’s Robot — My AI Has Been Yelling at Me for Months](https://ordinarymantrying.com/margin-debt-tesla-robot-bet/)
 - [I Built a Free AI China Trip Planner — Here’s What 18 Months of Iteration Actually Looks Like](https://ordinarymantrying.com/ai-china-trip-planner-18-months/)
 - [My Son Was Struggling With Math. I Built a Free AI Tutor. Then Two AIs Had Very Different Opinions About It.](https://ordinarymantrying.com/polya-math-tutor-chinese-ai-american-ai/)
 - [Affiliate Marketing Blog: Build a $2,000–$5,000/Month Passive Income Site](https://ordinarymantrying.com/affiliate-marketing-blog-passive-income/)
 - [Stock Dividends](https://ordinarymantrying.com/stock-dividends/)
-- [The Air Conditioner Queen: How Gree Became the World’s #1 AC Brand &lpar;Without You Knowing It&rpar;](https://ordinarymantrying.com/gree-air-conditioner-brand-story/)
 <!-- BLOG-POSTS:END -->
 
 ---
