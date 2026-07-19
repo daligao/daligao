@@ -66,11 +66,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [AI Startup Simulator: I Used Real 2024–2026 Cases to Build a Founder Decision Game &lpar;AI Generated&rpar;](https://ordinarymantrying.com/ai-startup-simulator-builder-ai-deepseek-founder-game/)
+- [$20 Million and 5 Decisions: The Investment Simulator Based on Real Celebrity Finance Disasters &lpar;AI Generated&rpar;](https://ordinarymantrying.com/20m-investment-simulator-celebrity-finance-decisions/)
+- [The Couple on the Subway Who Made Me Build the Relationship Lab](https://ordinarymantrying.com/subway-couple-relationship-lab/)
 - [The Dangers of Prolonged Sitting Hit Me at 40. Why I Quit Pomodoro Timers and Built a Game Instead.](https://ordinarymantrying.com/dangers-of-prolonged-sitting-pomodoro-timer-seatrisk/)
 - [Hostinger vs Bluehost for Bloggers Outside China: Here’s What Actually Matters](https://ordinarymantrying.com/hostinger-vs-bluehost-for-bloggers-outside-china-heres-what-actually-matters/)
-- [Month 1 Website Self-Diagnosis: What Google, Bing, and Yandex Really Think of My New Blog](https://ordinarymantrying.com/month-1-website-self-diagnosis-google-bing-yandex/)
-- [Working Memory Test: I Asked Three AIs to Build It. Here’s What Each One Did.](https://ordinarymantrying.com/working-memory-test-built-with-three-ais/)
-- [I Thought Labeling AI Content Was the Honest Thing to Do. Then Every AI Changed My Mind.](https://ordinarymantrying.com/i-labeled-my-ai-written-articles-then-every-ai-i-asked-told-me-to-stop-i-eventually-listened/)
 <!-- BLOG-POSTS:END -->
 
 ---
