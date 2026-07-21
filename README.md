@@ -66,11 +66,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [I Tried Hostinger for One Month: An Honest Review from a User in China](https://ordinarymantrying.com/hostinger-review-one-month-china-user/)
+- [I Asked 7 AIs to Find China’s Next 18-Year Bull Stock. Come Back in 2031 to See Who Was Right.](https://ordinarymantrying.com/ai-china-stock-picks-2031/)
 - [AI Startup Simulator: I Used Real 2024–2026 Cases to Build a Founder Decision Game &lpar;AI Generated&rpar;](https://ordinarymantrying.com/ai-startup-simulator-builder-ai-deepseek-founder-game/)
 - [$20 Million and 5 Decisions: The Investment Simulator Based on Real Celebrity Finance Disasters &lpar;AI Generated&rpar;](https://ordinarymantrying.com/20m-investment-simulator-celebrity-finance-decisions/)
 - [The Couple on the Subway Who Made Me Build the Relationship Lab](https://ordinarymantrying.com/subway-couple-relationship-lab/)
-- [The Dangers of Prolonged Sitting Hit Me at 40. Why I Quit Pomodoro Timers and Built a Game Instead.](https://ordinarymantrying.com/dangers-of-prolonged-sitting-pomodoro-timer-seatrisk/)
-- [Hostinger vs Bluehost for Bloggers Outside China: Here’s What Actually Matters](https://ordinarymantrying.com/hostinger-vs-bluehost-for-bloggers-outside-china-heres-what-actually-matters/)
 <!-- BLOG-POSTS:END -->
 
 ---
