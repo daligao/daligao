@@ -66,11 +66,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
-- [I Tried Hostinger for One Month: An Honest Review from a User in China](https://ordinarymantrying.com/hostinger-review-one-month-china-user/)
-- [I Asked 7 AIs to Find China’s Next 18-Year Bull Stock. Come Back in 2031 to See Who Was Right.](https://ordinarymantrying.com/ai-china-stock-picks-2031/)
-- [AI Startup Simulator: I Used Real 2024–2026 Cases to Build a Founder Decision Game &lpar;AI Generated&rpar;](https://ordinarymantrying.com/ai-startup-simulator-builder-ai-deepseek-founder-game/)
-- [$20 Million and 5 Decisions: The Investment Simulator Based on Real Celebrity Finance Disasters &lpar;AI Generated&rpar;](https://ordinarymantrying.com/20m-investment-simulator-celebrity-finance-decisions/)
-- [The Couple on the Subway Who Made Me Build the Relationship Lab](https://ordinarymantrying.com/subway-couple-relationship-lab/)
+- [40 Psychology Laws That Explain Why People Do What They Do &lpar;Complete Index&rpar;](https://ordinarymantrying.com/psychology-laws-complete-index/)
+- [My Website Was Secretly Redirecting Visitors to a Malicious Site. AI Helped Me Find Out.](https://ordinarymantrying.com/chinese-website-hidden-redirect-ai-investigation/)
+- [Month 1 Blog Income Report: $0 Earned, 484 Real Visitors, and Why I’m Still Recommending Hostinger](https://ordinarymantrying.com/month-1-blog-income-report/)
+- [Hostinger vs BandwagonHost: I Used Both. Here’s What Actually Changed.](https://ordinarymantrying.com/hostinger-vs-bandwagonhost-comparison/)
+- [How to Start a WordPress Blog on Hostinger: What I Actually Did &lpar;No Fluff&rpar;](https://ordinarymantrying.com/how-to-start-wordpress-blog-hostinger/)
 <!-- BLOG-POSTS:END -->
 
 ---
