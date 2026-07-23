@@ -66,11 +66,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
-- [40 Psychology Laws That Explain Why People Do What They Do &lpar;Complete Index&rpar;](https://ordinarymantrying.com/psychology-laws-complete-index/)
-- [My Website Was Secretly Redirecting Visitors to a Malicious Site. AI Helped Me Find Out.](https://ordinarymantrying.com/chinese-website-hidden-redirect-ai-investigation/)
-- [Month 1 Blog Income Report: $0 Earned, 484 Real Visitors, and Why I’m Still Recommending Hostinger](https://ordinarymantrying.com/month-1-blog-income-report/)
-- [Hostinger vs BandwagonHost: I Used Both. Here’s What Actually Changed.](https://ordinarymantrying.com/hostinger-vs-bandwagonhost-comparison/)
-- [How to Start a WordPress Blog on Hostinger: What I Actually Did &lpar;No Fluff&rpar;](https://ordinarymantrying.com/how-to-start-wordpress-blog-hostinger/)
+- [I Asked 8 AIs: What Will Humans Still Be Better At in 2040? Eight Answers. One Core Idea. One AI That Said You Shouldn’t Fully Trust Any of Them.](https://ordinarymantrying.com/8-ai-human-advantage-2040-experiment/)
+- [I Asked 8 AIs to Pick an Investing School and Show Their Prompts. All 8 Said Value Investing — Then One Warned You Shouldn’t Fully Trust Any of Them.](https://ordinarymantrying.com/8-ai-value-investing-playbook-experiment/)
+- [I Asked 8 AIs: $2,000/Month, 20 Years, One Action. Seven Said the Same Ticker. The Real Debate Was About Something Else.](https://ordinarymantrying.com/8-ai-monthly-investing-one-action-experiment/)
+- [AI Experiments: 8 AIs Answer the Same Investing Question — Every Episode, Ranked](https://ordinarymantrying.com/ai-experiments-series-index/)
+- [I Asked 8 AIs: $10,000 Into One Asset Class, 10 Years, No Selling. Six Said the Same Thing. The Other Two Made a Better Argument.](https://ordinarymantrying.com/8-ai-asset-class-10000-experiment/)
 <!-- BLOG-POSTS:END -->
 
 ---
