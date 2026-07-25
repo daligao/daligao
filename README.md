@@ -66,11 +66,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [9 AIs vs. China’s Biggest-Ever Tech IPO: The Prediction Showdown](https://ordinarymantrying.com/9-ais-cxmt-ipo-prediction-showdown/)
+- [I Built a Free Tool That Turns 8 AIs’ Investing Wisdom Into Your Personal Investing Coach](https://ordinarymantrying.com/ai-investment-operating-system-free-tool/)
 - [I Asked 8 AIs: What Will Humans Still Be Better At in 2040? Eight Answers. One Core Idea. One AI That Said You Shouldn’t Fully Trust Any of Them.](https://ordinarymantrying.com/8-ai-human-advantage-2040-experiment/)
 - [I Asked 8 AIs to Pick an Investing School and Show Their Prompts. All 8 Said Value Investing — Then One Warned You Shouldn’t Fully Trust Any of Them.](https://ordinarymantrying.com/8-ai-value-investing-playbook-experiment/)
 - [I Asked 8 AIs: $2,000/Month, 20 Years, One Action. Seven Said the Same Ticker. The Real Debate Was About Something Else.](https://ordinarymantrying.com/8-ai-monthly-investing-one-action-experiment/)
-- [AI Experiments: 8 AIs Answer the Same Investing Question — Every Episode, Ranked](https://ordinarymantrying.com/ai-experiments-series-index/)
-- [I Asked 8 AIs: $10,000 Into One Asset Class, 10 Years, No Selling. Six Said the Same Thing. The Other Two Made a Better Argument.](https://ordinarymantrying.com/8-ai-asset-class-10000-experiment/)
 <!-- BLOG-POSTS:END -->
 
 ---
