@@ -66,11 +66,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [I Asked 4 AIs Which One Lies the Most. They Named Names.](https://ordinarymantrying.com/i-asked-4-ais-which-one-lies-the-most-they-named-names/)
+- [I Asked Each AI How to Squeeze the Most Out of Its Rival](https://ordinarymantrying.com/i-asked-each-ai-how-to-squeeze-the-most-out-of-its-rival/)
 - [Why Medium and WeChat Reward Completely Different Writers](https://ordinarymantrying.com/medium-vs-wechat-income-gap-what-ai-showed-me/)
 - [I Paid ¥1,000 for an AI Content Course. Here’s What I Got. &lpar;Failed Experiments #2&rpar;](https://ordinarymantrying.com/i-paid-1000-ai-content-course-failed-experiments-2/)
 - [Why My First Side Project Got Zero Visitors &lpar;And What Every Indie Hacker Can Learn From It&rpar;](https://ordinarymantrying.com/rolluppiano-failed-business-what-i-learned/)
-- [Why Investors Keep the Wrong Stocks Too Long — and the Mental Model I Use to Stop &lpar;Investor Psychology #1&rpar;](https://ordinarymantrying.com/investor-psychology-endowment-effect-elevator-principle/)
-- [Before Buying Innolight &lpar;300308&rpar;, I Asked 5 AI Models the Same Four Questions](https://ordinarymantrying.com/5-ais-china-ai-stock-innolight-300308-worth-buying/)
 <!-- BLOG-POSTS:END -->
 
 ---
