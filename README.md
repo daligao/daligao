@@ -40,6 +40,8 @@ All free, no login, single HTML file. Built and documented on the blog.
 
 | Tool | Description | Link |
 |---|---|---|
+| 🗺️ **Wander China** | Drag-and-drop China trip planner for 31 cities. 1-day routes, no login, no signup. | [Plan trip](https://ordinarymantrying.com/tools/wander-china/index.html) · [Repo](https://github.com/daligao/wander-china) |
+| 📊 **AI Invest OS** | 5-question investor personality test + 6 AI tools. Built from 7 real experiments with 8 models. | [Try it](https://ordinarymantrying.com/tools/ai-invest-os.html) · [Repo](https://github.com/daligao/ai-invest-os) |
 | 🧠 **Mind Traps** | 40 psychology laws quiz — read a real scenario, name the law. Murphy's Law to Goodhart's Law. | [Play](https://ordinarymantrying.com/tools/mind-traps.html) · [Repo](https://github.com/daligao/mind-traps) |
 | 🀄 **Mandarin Flashcards** | HSK1–3, 400 words, spaced repetition — now with Anki export | [Try it](https://ordinarymantrying.com/tools/mandarin-flashcards.html) · [Repo](https://github.com/daligao/mandarin-flashcards) |
 | 🔡 **HSK4 Flashcards** | 150 intermediate words, same spaced repetition, Anki export | [Try it](https://ordinarymantrying.com/tools/hsk4-flashcards.html) |
@@ -82,3 +84,4 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 - 📈 Learning value investing with AI as a research partner
 - ✍️ Everything documented honestly — including the $0 months
 - 📬 [ordinarymantrying.com](https://ordinarymantrying.com)
+
