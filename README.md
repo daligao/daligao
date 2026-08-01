@@ -68,11 +68,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [The SEO Strategy Most AI Tool Builders Ignore: GitHub Awesome Lists](https://ordinarymantrying.com/ai-github-seo-awesome-list-pull-requests/)
+- [AI Didn’t Replace My Voice. It Finally Let the World Hear It.](https://ordinarymantrying.com/ai-share-chinese-story-world/)
+- [I Asked 7 AI Models Which Chinese AI Stock They’d Hold for 3 Years. The Results Were 6-1.](https://ordinarymantrying.com/zhongji-innolight-vs-cxmt-7-ai-battle/)
 - [I Asked 4 AIs Which One Lies the Most. They Named Names.](https://ordinarymantrying.com/i-asked-4-ais-which-one-lies-the-most-they-named-names/)
 - [I Asked Each AI How to Squeeze the Most Out of Its Rival](https://ordinarymantrying.com/i-asked-each-ai-how-to-squeeze-the-most-out-of-its-rival/)
-- [Why Medium and WeChat Reward Completely Different Writers](https://ordinarymantrying.com/medium-vs-wechat-income-gap-what-ai-showed-me/)
-- [I Paid ¥1,000 for an AI Content Course. Here’s What I Got. &lpar;Failed Experiments #2&rpar;](https://ordinarymantrying.com/i-paid-1000-ai-content-course-failed-experiments-2/)
-- [Why My First Side Project Got Zero Visitors &lpar;And What Every Indie Hacker Can Learn From It&rpar;](https://ordinarymantrying.com/rolluppiano-failed-business-what-i-learned/)
 <!-- BLOG-POSTS:END -->
 
 ---
