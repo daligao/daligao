@@ -68,11 +68,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [From 30MB of Word Files to a 400KB App: How AI Changed My Son’s English Study](https://ordinarymantrying.com/ai-gaokao-english-study-app/)
 - [The SEO Strategy Most AI Tool Builders Ignore: GitHub Awesome Lists](https://ordinarymantrying.com/ai-github-seo-awesome-list-pull-requests/)
 - [AI Didn’t Replace My Voice. It Finally Let the World Hear It.](https://ordinarymantrying.com/ai-share-chinese-story-world/)
 - [I Asked 7 AI Models Which Chinese AI Stock They’d Hold for 3 Years. The Results Were 6-1.](https://ordinarymantrying.com/zhongji-innolight-vs-cxmt-7-ai-battle/)
 - [I Asked 4 AIs Which One Lies the Most. They Named Names.](https://ordinarymantrying.com/i-asked-4-ais-which-one-lies-the-most-they-named-names/)
-- [I Asked Each AI How to Squeeze the Most Out of Its Rival](https://ordinarymantrying.com/i-asked-each-ai-how-to-squeeze-the-most-out-of-its-rival/)
 <!-- BLOG-POSTS:END -->
 
 ---
