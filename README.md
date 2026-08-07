@@ -68,11 +68,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [My Friend’s Company Got Hacked: How AI Cut 14-Server Triage from 14 Hours to 30 Minutes](https://ordinarymantrying.com/friend-company-hacked-14-servers-ai-triage/)
 - [It Took an AI to Show Me My Leverage Wasn’t Making Me Any Money — and I Overspent 40% on Opus5 Tokens Writing It](https://ordinarymantrying.com/it-took-an-ai-to-show-me-my-leverage-wasnt-making-me-any-money-and-i-overspent-40-on-opus5-tokens-writing-it/)
 - [We Asked AI to Judge Our Grocery Fight. It Didn’t Side With Either of Us.](https://ordinarymantrying.com/ai-grocery-argument-china-supermarket-prices/)
 - [From 30MB of Word Files to a 400KB App: How AI Changed My Son’s English Study](https://ordinarymantrying.com/ai-gaokao-english-study-app/)
 - [The SEO Strategy Most AI Tool Builders Ignore: GitHub Awesome Lists](https://ordinarymantrying.com/ai-github-seo-awesome-list-pull-requests/)
-- [AI Didn’t Replace My Voice. It Finally Let the World Hear It.](https://ordinarymantrying.com/ai-share-chinese-story-world/)
 <!-- BLOG-POSTS:END -->
 
 ---
