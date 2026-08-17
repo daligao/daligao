@@ -69,11 +69,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [I Bought Cheap Hosting Before I Had a Business Plan](https://ordinarymantrying.com/i-bought-cheap-hosting-before-i-had-a-business-plan/)
+- [I Bought Another Domain. Then I Accidentally Started Building a Second Internet Business.](https://ordinarymantrying.com/i-bought-another-domain-then-i-accidentally-started-building-a-second-internet-business/)
 - [6 AIs Tried to Guess My Star Sign Without Asking My Birthday. One Found a Clever Trick. &lpar;AI Generated&rpar;](https://ordinarymantrying.com/6-ai-chatbots-competed-to-guess-your-star-sign-without-asking-your-birthday-ai-generated/)
 - [I Challenged 6 AIs With the Same Math Puzzle — They Couldn’t Agree](https://ordinarymantrying.com/i-challenged-4-ais-with-the-same-math-puzzle-then-built-the-result-ai-generated/)
 - [How to Give AI Better Evidence: Lessons From a Security Investigation That Almost Failed](https://ordinarymantrying.com/how-to-give-ai-better-evidence/)
-- [The AI Got It Wrong — Then Got It Right](https://ordinarymantrying.com/ai-wrong-wordpress-plugin-wechat-redirect-attack/)
-- [AI Levels the Playing Field in Legal Disputes — Or Does It Just Hand Better Weapons to the Powerful?](https://ordinarymantrying.com/ai-levels-the-playing-field-in-legal-disputes-or-does-it-just-hand-better-weapons-to-the-powerful/)
 <!-- BLOG-POSTS:END -->
 
 ---
