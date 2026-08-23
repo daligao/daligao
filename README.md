@@ -69,11 +69,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [How to Build a Website With AI Fast — My 6-Day, 260-Page Experiment](https://ordinarymantrying.com/build-a-website-with-ai/)
 - [I Showed My Friends My New Website. They Asked One Question: “How Much Will It Make?”](https://ordinarymantrying.com/my-friends-asked-how-much-my-website-would-make/)
 - [I Bought Cheap Hosting Before I Had a Business Plan](https://ordinarymantrying.com/i-bought-cheap-hosting-before-i-had-a-business-plan/)
 - [I Bought Another Domain. Then I Accidentally Started Building a Second Internet Business.](https://ordinarymantrying.com/i-bought-another-domain-then-i-accidentally-started-building-a-second-internet-business/)
 - [6 AIs Tried to Guess My Star Sign Without Asking My Birthday. One Found a Clever Trick. &lpar;AI Generated&rpar;](https://ordinarymantrying.com/6-ai-chatbots-competed-to-guess-your-star-sign-without-asking-your-birthday-ai-generated/)
-- [I Challenged 6 AIs With the Same Math Puzzle — They Couldn’t Agree](https://ordinarymantrying.com/i-challenged-4-ais-with-the-same-math-puzzle-then-built-the-result-ai-generated/)
 <!-- BLOG-POSTS:END -->
 
 ---
