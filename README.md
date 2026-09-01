@@ -69,11 +69,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [We Almost Built ChinaEntry101. Then We Bought HotPot101 for $11.](https://ordinarymantrying.com/we-almost-built-chinaentry101-then-we-bought-hotpot101-for-11/)
+- [Five AIs Helped Me Choose a Domain Name. So I Bought It.](https://ordinarymantrying.com/five-ais-helped-me-choose-a-domain-name-so-i-bought-it/)
+- [AI Just Saved Me $8 a Year on My Domain — And Walked Me Through the Entire Transfer](https://ordinarymantrying.com/ai-just-saved-me-5-a-year-on-my-domain-and-walked-me-through-the-entire-transfer/)
 - [How to Build a Website With AI Fast — My 6-Day, 260-Page Experiment](https://ordinarymantrying.com/build-a-website-with-ai/)
 - [I Showed My Friends My New Website. They Asked One Question: “How Much Will It Make?”](https://ordinarymantrying.com/my-friends-asked-how-much-my-website-would-make/)
-- [I Bought Cheap Hosting Before I Had a Business Plan](https://ordinarymantrying.com/i-bought-cheap-hosting-before-i-had-a-business-plan/)
-- [I Bought Another Domain. Then I Accidentally Started Building a Second Internet Business.](https://ordinarymantrying.com/i-bought-another-domain-then-i-accidentally-started-building-a-second-internet-business/)
-- [6 AIs Tried to Guess My Star Sign Without Asking My Birthday. One Found a Clever Trick. &lpar;AI Generated&rpar;](https://ordinarymantrying.com/6-ai-chatbots-competed-to-guess-your-star-sign-without-asking-your-birthday-ai-generated/)
 <!-- BLOG-POSTS:END -->
 
 ---
