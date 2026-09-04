@@ -69,11 +69,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [I Broke My Own Google Rankings. Here Is Exactly How I Did It &lpar;And How I Fixed It&rpar;](https://ordinarymantrying.com/i-broke-my-google-rankings-robots-txt-mistake/)
 - [We Almost Built ChinaEntry101. Then We Bought HotPot101 for $11.](https://ordinarymantrying.com/we-almost-built-chinaentry101-then-we-bought-hotpot101-for-11/)
 - [Five AIs Helped Me Choose a Domain Name. So I Bought It.](https://ordinarymantrying.com/five-ais-helped-me-choose-a-domain-name-so-i-bought-it/)
 - [AI Just Saved Me $8 a Year on My Domain — And Walked Me Through the Entire Transfer](https://ordinarymantrying.com/ai-just-saved-me-5-a-year-on-my-domain-and-walked-me-through-the-entire-transfer/)
 - [How to Build a Website With AI Fast — My 6-Day, 260-Page Experiment](https://ordinarymantrying.com/build-a-website-with-ai/)
-- [I Showed My Friends My New Website. They Asked One Question: “How Much Will It Make?”](https://ordinarymantrying.com/my-friends-asked-how-much-my-website-would-make/)
 <!-- BLOG-POSTS:END -->
 
 ---
