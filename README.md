@@ -69,11 +69,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
-- [I Broke My Own Google Rankings. Here Is Exactly How I Did It &lpar;And How I Fixed It&rpar;](https://ordinarymantrying.com/i-broke-my-google-rankings-robots-txt-mistake/)
-- [We Almost Built ChinaEntry101. Then We Bought HotPot101 for $11.](https://ordinarymantrying.com/we-almost-built-chinaentry101-then-we-bought-hotpot101-for-11/)
-- [Five AIs Helped Me Choose a Domain Name. So I Bought It.](https://ordinarymantrying.com/five-ais-helped-me-choose-a-domain-name-so-i-bought-it/)
-- [AI Just Saved Me $8 a Year on My Domain — And Walked Me Through the Entire Transfer](https://ordinarymantrying.com/ai-just-saved-me-5-a-year-on-my-domain-and-walked-me-through-the-entire-transfer/)
-- [How to Build a Website With AI Fast — My 6-Day, 260-Page Experiment](https://ordinarymantrying.com/build-a-website-with-ai/)
+- [I Bought HotPot101.com Because I Think Food Might Be One of the Best Ways to Understand China](https://ordinarymantrying.com/i-bought-hotpot101-com-because-i-think-food-might-be-one-of-the-best-ways-to-understand-china/)
+- [I Built ChinaRules101 Because Understanding China Is Different From Learning About China](https://ordinarymantrying.com/i-built-chinarules101-because-understanding-china-is-different-from-learning-about-china/)
+- [I Built a Website to Help Foreigners Create Chinese Names](https://ordinarymantrying.com/i-built-a-website-to-help-foreigners-create-chinese-names/)
+- [I Built a Website to Help People Explore Chinese Fortune, Zodiac and Traditional Culture](https://ordinarymantrying.com/i-built-a-website-to-help-people-explore-chinese-fortune-zodiac-and-traditional-culture/)
+- [Is ChatGPT Plus Worth $20 a Month for Building Websites? My Real Experiment](https://ordinarymantrying.com/is-chatgpt-plus-worth-20-a-month-for-building-websites-my-real-experiment/)
 <!-- BLOG-POSTS:END -->
 
 ---
