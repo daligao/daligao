@@ -69,11 +69,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [AI and I Came Up With a New Website Idea. Then I Asked: Are We Selling Combs to Monks?](https://ordinarymantrying.com/ai-and-i-came-up-with-a-new-website-idea-then-i-asked-are-we-selling-combs-to-monks/)
 - [I Bought HotPot101.com Because I Think Food Might Be One of the Best Ways to Understand China](https://ordinarymantrying.com/i-bought-hotpot101-com-because-i-think-food-might-be-one-of-the-best-ways-to-understand-china/)
 - [I Built ChinaRules101 Because Understanding China Is Different From Learning About China](https://ordinarymantrying.com/i-built-chinarules101-because-understanding-china-is-different-from-learning-about-china/)
 - [I Built a Website to Help Foreigners Create Chinese Names](https://ordinarymantrying.com/i-built-a-website-to-help-foreigners-create-chinese-names/)
 - [I Built a Website to Help People Explore Chinese Fortune, Zodiac and Traditional Culture](https://ordinarymantrying.com/i-built-a-website-to-help-people-explore-chinese-fortune-zodiac-and-traditional-culture/)
-- [Is ChatGPT Plus Worth $20 a Month for Building Websites? My Real Experiment](https://ordinarymantrying.com/is-chatgpt-plus-worth-20-a-month-for-building-websites-my-real-experiment/)
 <!-- BLOG-POSTS:END -->
 
 ---
