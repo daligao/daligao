@@ -69,11 +69,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [I Bought a Domain for $1 — Here’s What I Built With AI + GitHubI Bought a Domain for $1 — Here’s What I Built With AI + GitHub](https://ordinarymantrying.com/i-bought-a-domain-for-1-heres-what-i-built-with-ai-githubi-bought-a-domain-for-1-heres-what-i-built-with-ai-github/)
+- [AI Taught Me 17 Surprising Ways to Use GitHub for a One-Person Website Business](https://ordinarymantrying.com/ai-taught-me-17-surprising-ways-to-use-github-for-a-one-person-website-business/)
 - [AI and I Came Up With a New Website Idea. Then I Asked: Are We Selling Combs to Monks?](https://ordinarymantrying.com/ai-and-i-came-up-with-a-new-website-idea-then-i-asked-are-we-selling-combs-to-monks/)
 - [I Bought HotPot101.com Because I Think Food Might Be One of the Best Ways to Understand China](https://ordinarymantrying.com/i-bought-hotpot101-com-because-i-think-food-might-be-one-of-the-best-ways-to-understand-china/)
 - [I Built ChinaRules101 Because Understanding China Is Different From Learning About China](https://ordinarymantrying.com/i-built-chinarules101-because-understanding-china-is-different-from-learning-about-china/)
-- [I Built a Website to Help Foreigners Create Chinese Names](https://ordinarymantrying.com/i-built-a-website-to-help-foreigners-create-chinese-names/)
-- [I Built a Website to Help People Explore Chinese Fortune, Zodiac and Traditional Culture](https://ordinarymantrying.com/i-built-a-website-to-help-people-explore-chinese-fortune-zodiac-and-traditional-culture/)
 <!-- BLOG-POSTS:END -->
 
 ---
