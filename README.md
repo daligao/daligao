@@ -69,11 +69,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [The Photos You Almost Delete Today May Become Priceless in Ten Years](https://ordinarymantrying.com/ordinary-photos-become-priceless/)
 - [I Finally Fixed the WWW Redirect on CutDone.](https://ordinarymantrying.com/i-finally-fixed-the-www-redirect-on-cutdone/)
 - [I Bought a Domain for $1 — Here’s What I Built With AI + GitHubI Bought a Domain for $1 — Here’s What I Built With AI + GitHub](https://ordinarymantrying.com/i-bought-a-domain-for-1-heres-what-i-built-with-ai-githubi-bought-a-domain-for-1-heres-what-i-built-with-ai-github/)
 - [AI Taught Me 17 Surprising Ways to Use GitHub for a One-Person Website Business](https://ordinarymantrying.com/ai-taught-me-17-surprising-ways-to-use-github-for-a-one-person-website-business/)
 - [AI and I Came Up With a New Website Idea. Then I Asked: Are We Selling Combs to Monks?](https://ordinarymantrying.com/ai-and-i-came-up-with-a-new-website-idea-then-i-asked-are-we-selling-combs-to-monks/)
-- [I Bought HotPot101.com Because I Think Food Might Be One of the Best Ways to Understand China](https://ordinarymantrying.com/i-bought-hotpot101-com-because-i-think-food-might-be-one-of-the-best-ways-to-understand-china/)
 <!-- BLOG-POSTS:END -->
 
 ---
