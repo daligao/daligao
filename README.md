@@ -69,11 +69,11 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 ## 📝 Latest Posts
 
 <!-- BLOG-POSTS:START -->
+- [I Found a Better-Looking AI Website. Then I Compared Its Business With Mine.](https://ordinarymantrying.com/1849-2/)
 - [Maybe I’m Just Not Meant to Make Money](https://ordinarymantrying.com/maybe-im-just-not-meant-to-make-money/)
 - [How Much Should a Digital Product Cost? I Asked AI, Studied the Market, and Changed How I Think About Pricing](https://ordinarymantrying.com/how-much-should-a-digital-product-cost-i-asked-ai-studied-the-market-and-changed-how-i-think-about-pricing/)
 - [Should I Build One Big Website or Many Small Ones?](https://ordinarymantrying.com/should-i-build-one-big-website-or-many-small-ones/)
 - [The Photos You Almost Delete Today May Become Priceless in Ten Years](https://ordinarymantrying.com/ordinary-photos-become-priceless/)
-- [I Finally Fixed the WWW Redirect on CutDone.](https://ordinarymantrying.com/i-finally-fixed-the-www-redirect-on-cutdone/)
 <!-- BLOG-POSTS:END -->
 
 ---
