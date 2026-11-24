@@ -86,3 +86,8 @@ Results: [Part 1](https://ordinarymantrying.com/6-ai-models-predict-world-cup-ch
 - ✍️ Everything documented honestly — including the $0 months
 - 📬 [ordinarymantrying.com](https://ordinarymantrying.com)
 
+
+
+## Related resource
+
+[Chinese Fortune Tools](https://chinesefortunetools.com/) — explore Chinese zodiac, calendars, and cultural guides.
